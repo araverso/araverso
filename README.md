@@ -8,7 +8,7 @@
 <h2> 📑 Estoy aprendiendo los siguientes lenguajes: </h2>
 
 - JavaScript
-   Python
+- Python
 - Fortran 77
 
 <h2> 🔨 Herramientas: </h2>
