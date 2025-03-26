@@ -5,10 +5,10 @@
 - **Actualmente:** Estudiante de la Licenciatura en Astronomía (UNLP)
 - **Intereses:** Programación y tecnología
 
-<h2> 📑 Estoy aprendiendo los siguientes lenguajes: </h2>
+<h2> 📑 Estoy aprendiendo: </h2>
 
-- JavaScript, HTML y CSS.
-- Python
+- Frontend: JavaScript, HTML y CSS
+- Ciencia de datos: Python
 - Fortran 77
 
 <h2> 🔨 Herramientas: </h2>
