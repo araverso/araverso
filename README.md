@@ -7,7 +7,7 @@
 
 <h2> 📑 Estoy aprendiendo los siguientes lenguajes: </h2>
 
-- JavaScript
+- JavaScript, HTML y CSS.
 - Python
 - Fortran 77
 
