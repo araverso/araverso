@@ -3,13 +3,13 @@
 - **Pais:** Argentina, Buenos Aires
 - **Pronombres:** Ella
 - **Actualmente:** Estudiante de la Licenciatura en Astronomía (UNLP)
-- **Intereses:** Programación y tecnología
+- **Intereses:** Ciencia y tecnología
 
 <h2> 📑 Estoy aprendiendo: </h2>
 
 - Frontend: JavaScript, HTML y CSS
 - Ciencia de datos: Python
-- Fortran 77
+- Tengo conocimientos en: Fortran 77
 
 <h2> 🔨 Herramientas: </h2>
 
