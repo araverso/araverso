@@ -8,8 +8,7 @@
 <h2> 📑 Estoy aprendiendo: </h2>
 
 - Frontend: JavaScript, HTML y CSS
-- Ciencia de datos: Python
-- Tengo conocimientos en: Fortran 77
+- Tengo conocimientos en: Fortran 77 y Python
 
 <h2> 🔨 Herramientas: </h2>
 
