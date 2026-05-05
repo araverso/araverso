@@ -2,7 +2,7 @@
 
 - **Pais:** Argentina, Buenos Aires
 - **Pronombres:** Ella
-- **Actualmente:** Estudiante de la Licenciatura en Astronomía (UNLP)
+- **Actualmente:** Estudiante de la Licenciatura en Astronomía (UNLP) y Analista en Tecnologías de la Información y la Comunicación (UNLP)
 - **Intereses:** Ciencia, tecnología, información y música
 
 <h2> 📑 Estoy aprendiendo: </h2>
